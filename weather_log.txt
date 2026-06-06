@@ -1,0 +1,8 @@
+
+========== CYBERIX API REPORT ==========
+Timestamp  : 2026-06-06 10:31:46
+Location   : Kolkata Region, India
+Temperature: 31.9°C
+Wind Speed : 5.9 km/h
+========================================
+
